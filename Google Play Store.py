@@ -3,8 +3,8 @@
 
 # # Google Play Store
 
-# * This data set is located in  https://github.com/gauthamp10/Google-Playstore-Dataset
-# * We will assist Google in determining which applications work best on their platform in order to increase user engagement.
+
+# We assist Google in determining which applications work best on their platform in order to increase user engagement.
 # 
 
 # In[1]:
